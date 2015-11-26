@@ -10,6 +10,7 @@ import com.MobileBankingSystem.info.Customer_Info;
 import com.MobileBankingSystem.ui.BankingSystem_UI;
 import com.MobileBankingSystem.ui.Management;
 
+// BankingSystem
 public class BankingSystem {
 
 	public ArrayList<Customer> members;
@@ -33,7 +34,7 @@ public class BankingSystem {
 				case 3:
 					System.exit(0);
 				default:
-					System.out.println("¹øÈ£¸¦ Àß¸øÀÔ·ÂÇÏ¼Ì½À´Ï´Ù. ´Ù½ÃÀÔ·ÂÇØÁÖ¼¼¿ä.");
+					System.out.println("ï¿½ï¿½È£ï¿½ï¿½ ï¿½ß¸ï¿½ï¿½Ô·ï¿½ï¿½Ï¼Ì½ï¿½ï¿½Ï´ï¿½. ï¿½Ù½ï¿½ï¿½Ô·ï¿½ï¿½ï¿½ï¿½Ö¼ï¿½ï¿½ï¿½.");
 					break;
 			}
 		}
