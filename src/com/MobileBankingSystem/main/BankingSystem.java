@@ -34,7 +34,7 @@ public class BankingSystem {
 				case 3:
 					System.exit(0);
 				default:
-					System.out.println("��ȣ�� �߸��Է��ϼ̽��ϴ�. �ٽ��Է����ּ���.");
+					System.out.println("�뜝�룞�삕�샇�뜝�룞�삕 �뜝�뙥紐뚯삕�뜝�뙃琉꾩삕�뜝�떦�뀲�룞�삕�뜝�떦�뙋�삕. �뜝�뙐�룞�삕�뜝�뙃琉꾩삕�뜝�룞�삕�뜝�뙇�눦�삕�뜝�룞�삕.");
 					break;
 			}
 		}
